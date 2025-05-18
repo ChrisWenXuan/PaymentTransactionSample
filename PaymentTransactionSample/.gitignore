@@ -1,0 +1,42 @@
+# Build results
+bin
+obj
+out
+
+# User-specific files
+.user
+.suo
+.userosscache
+.sln.docstates
+
+# Rider  VS Code  VS files
+.idea
+.vscode
+.code-workspace
+
+# ASP.NET secrets
+secrets.json
+.pfx
+
+# Logs
+.log
+Logs
+
+# EF Core migrations snapshot
+Migrations
+
+# Environment files
+.env
+.env.
+
+# Docker-related
+.pid
+.sock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node  NPM if using frontend
+node_modules
+dist
